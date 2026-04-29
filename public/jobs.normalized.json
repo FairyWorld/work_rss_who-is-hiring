@@ -1,7 +1,7 @@
 {
-  "generated_at": "25068361014",
+  "generated_at": "25084465002",
   "repo": "rebase-network/who-is-hiring",
-  "count": 811,
+  "count": 810,
   "jobs": [
     {
       "id": 4345104157,
@@ -2054,110 +2054,6 @@
       "rss_updated_at": "2026-04-17T04:41:32.000Z",
       "summary": "**职位定位：主导“撮合引擎 × 永续合约 × 自研链”的一体化架构设计与性能优化的技术负责人（未上线）**",
       "author": "PicoAng"
-    },
-    {
-      "id": 4274259148,
-      "number": 1113,
-      "url": "https://github.com/rebase-network/who-is-hiring/issues/1113",
-      "title": "[全职远程] Antseer 测试工程师JD  薪资1000-3000USD/月",
-      "company": "Antseer",
-      "location": "远程办公",
-      "salary": "1000-3000USD/月",
-      "salary_min": 1000,
-      "salary_max": 3000,
-      "salary_currency": "USD",
-      "salary_period": "month",
-      "remote": true,
-      "work_mode": "远程办公",
-      "timezone": "要求：（GMT+8优先，可覆盖核心工作时间，可适应国际分布式团队协作）",
-      "employment_type": "全职",
-      "responsibilities": "负责 Skill 自动化生成流水线的端到端测试，包括需求挖掘、Skill 设计到前端生成的全链路验证；设计并执行 Skill 质量评估框架，评判 AI 输出的准确性、一致性与金融合理性；搭建自动化测试体系，覆盖 Skill 触发逻辑、参数化输出、用户个性化场景；参与 Skill 进化机制验证，与产品和 AI 研发协作并输出可测试验收标准；建立性能监控与异常告警机制，保障预计算组件和缓存层稳定性。",
-      "requirements": "3年以上软件测试经验，有 AI 产品或数据平台测试经验优先\n熟悉自动化测试框架（Pytest、Playwright 等），能独立搭建测试工程\n具备基础 Python 编程能力，能编写测试脚本和数据验证工具\n对金融市场有基本认知（了解 K 线、资金费率、链上数据等概念）优先\n有 LLM 应用测试或 Prompt 评估经验者加分\n逻辑严谨，能从用户视角发现产品问题，而不只是验证功能是否跑通\n了解 Agent Skill 生态（agentskills.io 标准）\n有金融数据产品或量化平台的测试经验\n熟悉链上数据（Dune、Nansen 等）或宏观金融数据源\n直接参与一个定义新品类的早期产品\n扁平化团队，你的测试发现能直接影响产品走向\n有竞争力的薪资 + 期权激励\n远程友好",
-      "contact_channels": [
-        "hmma94349@gmail.com",
-        "email:hmma94349@gmail.com",
-        "telegram:@GuolierX",
-        "@GuolierX"
-      ],
-      "completeness_score": 100,
-      "completeness_grade": "A",
-      "missing_fields": [],
-      "weak_fields": [],
-      "risk_flags": [],
-      "score_breakdown": {
-        "title": {
-          "earned": 10,
-          "max": 10,
-          "source": "title"
-        },
-        "company": {
-          "earned": 14,
-          "max": 14,
-          "source": "derived"
-        },
-        "location": {
-          "earned": 9,
-          "max": 9,
-          "source": "body"
-        },
-        "salary": {
-          "earned": 14,
-          "max": 14,
-          "source": "derived"
-        },
-        "responsibilities": {
-          "earned": 11,
-          "max": 11,
-          "source": "body"
-        },
-        "requirements": {
-          "earned": 9,
-          "max": 9,
-          "source": "body"
-        },
-        "work_mode": {
-          "earned": 5,
-          "max": 5,
-          "source": "body"
-        },
-        "employment_type": {
-          "earned": 4,
-          "max": 4,
-          "source": "body"
-        },
-        "contact_channels": {
-          "earned": 15,
-          "max": 15,
-          "source": "body"
-        },
-        "credibility": {
-          "earned": 9,
-          "max": 9,
-          "source": null
-        }
-      },
-      "field_sources": {
-        "title": "title",
-        "company": "derived",
-        "location": "body",
-        "salary": "derived",
-        "work_mode": "body",
-        "employment_type": "body",
-        "responsibilities": "body",
-        "requirements": "body",
-        "contact_channels": "body"
-      },
-      "comment_supplemented_fields": [],
-      "decision_value_score": 77,
-      "credibility_score": 9,
-      "state": "open",
-      "labels": [],
-      "created_at": "2026-04-16T08:28:50Z",
-      "updated_at": "2026-04-16T08:29:31Z",
-      "closed_at": null,
-      "rss_updated_at": "2026-04-16T08:29:31.000Z",
-      "summary": "## 关于 Antseer\nAntseer 是首个具备进化能力的金融 Skill 生态系统，致力于让每个 Skill 像真正的金融从业者一样持续学习、积累经验、形成判断。我们正在构建一支由数千个金融智慧体组成的虚拟团队，重新定义 AI 驱动的金融智能研究边界",
-      "author": "GuolierX"
     },
     {
       "id": 4272772059,
