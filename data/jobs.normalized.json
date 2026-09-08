@@ -1,5 +1,5 @@
 {
-  "generated_at": "34175330463",
+  "generated_at": "34203444173",
   "repo": "rebase-network/who-is-hiring",
   "count": 1170,
   "jobs": [
@@ -23,6 +23,8 @@
       "requirements": "3 年以上软件开发经验，并有实际区块链开发经验\n熟悉 **Solidity / EVM\n对区块链底层原理、架构和分布式系统有较好的理解\n熟练掌握 **Rust、Go、C++、TypeScript 或 Solidity** 中至少一种\n有生产环境软件开发经验，而不仅是 Demo 或个人实验项目\n了解智能合约及区块链常见安全问题\n具备较强的问题分析和独立解决能力，能够负责一个项目或模块从开发到上线\n有实际 Token 或 Coin 开发、发行和上线经验\n有 ERC-20、ERC-721、ERC-1155 等 Token 标准开发经验\n有 Layer 1 / Layer 2 区块链开发经验\n有 DeFi 或其他链上产品开发经验\n有共识机制、P2P 网络或跨链相关开发经验\n有较强的 Rust / Go 开发经验\n有开源区块链项目贡献",
       "contact_channels": [
         "email:info@parallelchain-labs.com",
+        "https://parallelchain-labs.com/",
+        "telegram:@InfoParallelChainLabs",
         "linkedin"
       ],
       "completeness_score": 78,
@@ -104,9 +106,9 @@
       "state": "open",
       "labels": [],
       "created_at": "2026-09-08T01:02:53Z",
-      "updated_at": "2026-09-08T01:02:53Z",
+      "updated_at": "2026-09-08T08:14:55Z",
       "closed_at": null,
-      "rss_updated_at": "2026-09-08T01:02:53.000Z",
+      "rss_updated_at": "2026-09-08T08:14:55.000Z",
       "summary": "## 公司介绍",
       "author": "parallel-labs071"
     },
