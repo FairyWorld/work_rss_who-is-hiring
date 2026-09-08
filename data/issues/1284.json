@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T20:22:00.235Z",
+  "generated_at": "2026-09-08T01:03:16.713Z",
   "repo": "rebase-network/who-is-hiring",
   "issue_number": 1284,
   "raw_source": {
@@ -116,6 +116,7 @@
     "created_at": "2026-09-07T20:21:40Z",
     "updated_at": "2026-09-07T20:21:40Z",
     "closed_at": null,
+    "rss_updated_at": "2026-09-07T20:21:40.000Z",
     "summary": "公司： Lootrushs\n工作地点： 美国纽约 🇺🇸\n工作方式： Remote / 远程\n薪资： 70,000 - 80,000 RMB / 月\n官网： [lootrushs.com](https://lootrushs.com/?utm_source=chatgpt.com)",
     "author": "lootrushs99"
   },
@@ -339,20 +340,5 @@
     "decision_value_score": 66,
     "credibility_score": 9
   },
-  "extraction_trace": {
-    "number": 1284,
-    "confidence_score": 90,
-    "low_confidence": false,
-    "confidence_reasons": [
-      "missing-responsibilities"
-    ],
-    "deterministic_conflicts": [],
-    "route": "llm-fallback",
-    "llm_result": "fallback",
-    "llm_attempted": true,
-    "llm_applied": false,
-    "llm_error": "llm-request-failed:Unexpected token '<', \"<!doctype \"... is not valid JSON-batch-1/1",
-    "fallback_reason": "llm-request-failed:Unexpected token '<', \"<!doctype \"... is not valid JSON-batch-1/1",
-    "merged_fields": []
-  }
+  "extraction_trace": null
 }
