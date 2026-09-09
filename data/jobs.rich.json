@@ -1,5 +1,5 @@
 {
-  "generated_at": "34327611533",
+  "generated_at": "34340545857",
   "repo": "rebase-network/who-is-hiring",
   "count": 1172,
   "jobs": [
@@ -588,11 +588,11 @@
       "number": 1285,
       "url": "https://github.com/rebase-network/who-is-hiring/issues/1285",
       "title": "ParallelChain Labs｜区块链基础设施技术合伙人",
-      "state": "open",
+      "state": "closed",
       "labels": [],
       "created_at": "2026-09-08T01:02:53Z",
-      "updated_at": "2026-09-08T08:14:55Z",
-      "closed_at": null,
+      "updated_at": "2026-09-09T10:30:05Z",
+      "closed_at": "2026-09-09T10:30:05Z",
       "author": "parallel-labs071",
       "company": "ParallelChain Labs",
       "location": null,

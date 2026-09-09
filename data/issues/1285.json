@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T08:14:46.273Z",
+  "generated_at": "2026-09-09T10:30:26.611Z",
   "repo": "rebase-network/who-is-hiring",
   "issue_number": 1285,
   "raw_source": {
@@ -19,13 +19,19 @@
         "author": "parallel-labs071",
         "created_at": "2026-09-08T02:52:22Z",
         "updated_at": "2026-09-08T02:52:22Z"
+      },
+      {
+        "body": "大家注意。这个是骗子，会让你跑恶意项目 https://github.com/SignalRAOrg/Signalra",
+        "author": "hejtao",
+        "created_at": "2026-09-09T09:31:57Z",
+        "updated_at": "2026-09-09T09:31:57Z"
       }
     ],
     "labels": [],
-    "state": "open",
+    "state": "closed",
     "created_at": "2026-09-08T01:02:53Z",
-    "updated_at": "2026-09-08T08:14:55Z",
-    "closed_at": null,
+    "updated_at": "2026-09-09T10:30:05Z",
+    "closed_at": "2026-09-09T10:30:05Z",
     "author": "parallel-labs071"
   },
   "normalized": {
@@ -128,12 +134,11 @@
     "comment_supplemented_fields": [],
     "decision_value_score": 55,
     "credibility_score": 9,
-    "state": "open",
+    "state": "closed",
     "labels": [],
     "created_at": "2026-09-08T01:02:53Z",
-    "updated_at": "2026-09-08T08:14:55Z",
-    "closed_at": null,
-    "rss_updated_at": "2026-09-08T08:14:55.000Z",
+    "updated_at": "2026-09-09T10:30:05Z",
+    "closed_at": "2026-09-09T10:30:05Z",
     "summary": "## 公司介绍",
     "author": "parallel-labs071"
   },
@@ -142,11 +147,11 @@
     "number": 1285,
     "url": "https://github.com/rebase-network/who-is-hiring/issues/1285",
     "title": "ParallelChain Labs｜区块链基础设施技术合伙人",
-    "state": "open",
+    "state": "closed",
     "labels": [],
     "created_at": "2026-09-08T01:02:53Z",
-    "updated_at": "2026-09-08T08:14:55Z",
-    "closed_at": null,
+    "updated_at": "2026-09-09T10:30:05Z",
+    "closed_at": "2026-09-09T10:30:05Z",
     "author": "parallel-labs071",
     "company": "ParallelChain Labs",
     "location": null,
@@ -354,5 +359,22 @@
     "decision_value_score": 55,
     "credibility_score": 9
   },
-  "extraction_trace": null
+  "extraction_trace": {
+    "number": 1285,
+    "confidence_score": 68,
+    "low_confidence": true,
+    "confidence_reasons": [
+      "missing-location",
+      "missing-responsibilities",
+      "weak-summary-signal"
+    ],
+    "deterministic_conflicts": [],
+    "route": "llm-fallback",
+    "llm_result": "fallback",
+    "llm_attempted": true,
+    "llm_applied": false,
+    "llm_error": "llm-request-failed:Unexpected token '<', \"<!doctype \"... is not valid JSON-batch-1/1",
+    "fallback_reason": "llm-request-failed:Unexpected token '<', \"<!doctype \"... is not valid JSON-batch-1/1",
+    "merged_fields": []
+  }
 }
