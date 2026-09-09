@@ -1,5 +1,5 @@
 {
-  "generated_at": "34340762978",
+  "generated_at": "34366889920",
   "repo": "rebase-network/who-is-hiring",
   "count": 1172,
   "jobs": [
@@ -805,11 +805,11 @@
       "number": 1284,
       "url": "https://github.com/rebase-network/who-is-hiring/issues/1284",
       "title": "🚀 Lootrushs 招聘｜智能合约开发工程师",
-      "state": "open",
+      "state": "closed",
       "labels": [],
       "created_at": "2026-09-07T20:21:40Z",
-      "updated_at": "2026-09-07T20:21:40Z",
-      "closed_at": null,
+      "updated_at": "2026-09-09T14:56:00Z",
+      "closed_at": "2026-09-09T14:56:00Z",
       "author": "lootrushs99",
       "company": "Lootrushs",
       "location": "美国纽约 🇺🇸",
