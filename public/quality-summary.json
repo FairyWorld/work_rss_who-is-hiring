@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-08T08:14:56.677Z",
+  "generated_at": "2026-09-09T07:33:14.348Z",
   "totals": {
-    "all_jobs": 1170,
-    "open_jobs": 893,
-    "average_score_open": 85.84,
-    "average_decision_value_open": 65.01,
-    "average_credibility_open": 8.36,
+    "all_jobs": 1171,
+    "open_jobs": 894,
+    "average_score_open": 85.83,
+    "average_decision_value_open": 65.02,
+    "average_credibility_open": 8.35,
     "low_score_open": 39,
     "comment_supplemented_open": 20
   },
   "grade_distribution_open": {
     "A": 430,
-    "B": 263,
+    "B": 264,
     "C": 110,
     "D": 51,
     "F": 39
@@ -19,7 +19,7 @@
   "missing_field_counts_open": {
     "employment_type": 201,
     "salary": 169,
-    "company": 96,
+    "company": 97,
     "responsibilities": 94,
     "work_mode": 75,
     "location": 57,
@@ -28,7 +28,7 @@
     "title": 1
   },
   "weak_field_counts_open": {
-    "salary": 624,
+    "salary": 625,
     "contact": 294,
     "responsibilities": 78,
     "requirements": 37,
@@ -36,7 +36,7 @@
     "work_mode": 1
   },
   "risk_flag_counts_open": {
-    "company-missing": 96,
+    "company-missing": 97,
     "offplatform-contact-only-no-company": 38,
     "high-salary-low-detail": 16,
     "contact-missing": 11
@@ -448,17 +448,16 @@
   "extraction_observability": {
     "low_confidence_threshold": 70,
     "total_issues": 1,
-    "low_confidence_issues": 1,
+    "low_confidence_issues": 0,
     "llm_enriched_issues": 0,
     "llm_fallback_issues": 1,
     "per_issue": [
       {
-        "number": 1285,
-        "confidence_score": 68,
-        "low_confidence": true,
+        "number": 1286,
+        "confidence_score": 74,
+        "low_confidence": false,
         "confidence_reasons": [
-          "missing-location",
-          "missing-responsibilities",
+          "missing-company",
           "weak-summary-signal"
         ],
         "deterministic_conflicts": [],
@@ -474,8 +473,8 @@
   },
   "low_score_label_loop": {
     "mode": "label-and-comment",
-    "issue_number": 1285,
-    "decision_reason": "observe-band",
+    "issue_number": 1286,
+    "decision_reason": "score-above-threshold",
     "reminder_band": null,
     "should_ensure_label": false,
     "should_add_label": false,

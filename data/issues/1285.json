@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T08:14:55.011Z",
+  "generated_at": "2026-09-09T07:33:12.632Z",
   "repo": "rebase-network/who-is-hiring",
   "issue_number": 1285,
   "raw_source": {
@@ -133,6 +133,7 @@
     "created_at": "2026-09-08T01:02:53Z",
     "updated_at": "2026-09-08T08:14:55Z",
     "closed_at": null,
+    "rss_updated_at": "2026-09-08T08:14:55.000Z",
     "summary": "## 公司介绍",
     "author": "parallel-labs071"
   },
@@ -353,22 +354,5 @@
     "decision_value_score": 55,
     "credibility_score": 9
   },
-  "extraction_trace": {
-    "number": 1285,
-    "confidence_score": 68,
-    "low_confidence": true,
-    "confidence_reasons": [
-      "missing-location",
-      "missing-responsibilities",
-      "weak-summary-signal"
-    ],
-    "deterministic_conflicts": [],
-    "route": "llm-fallback",
-    "llm_result": "fallback",
-    "llm_attempted": true,
-    "llm_applied": false,
-    "llm_error": "llm-request-failed:Unexpected token '<', \"<!doctype \"... is not valid JSON-batch-1/1",
-    "fallback_reason": "llm-request-failed:Unexpected token '<', \"<!doctype \"... is not valid JSON-batch-1/1",
-    "merged_fields": []
-  }
+  "extraction_trace": null
 }
