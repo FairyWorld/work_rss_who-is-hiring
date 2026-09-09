@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T10:30:26.611Z",
+  "generated_at": "2026-09-09T10:32:45.748Z",
   "repo": "rebase-network/who-is-hiring",
   "issue_number": 1287,
   "raw_source": {
@@ -9,10 +9,10 @@
     "body": "## Company / Team\n\n**1Money** is building next-generation blockchain infrastructure for digital assets and global payments.\n\nThe team is developing a high-performance **Layer 1 network** designed to support stablecoin-based payments and digital asset applications. The product organization works across **core protocol and network infrastructure, stablecoin issuance and token management, developer experience, and the broader payment ecosystem**.\n\nWe are looking for a **Product Manager – Layer 1 / Stablecoin Payments** to work closely with engineering, stablecoin issuers, developers, and ecosystem partners to build and scale the network.\n\n## Compensation\n\n- Annual salary: **RMB 1,000,000+**\n- Compensation is negotiable based on experience and product/technical background\n- Full-time position\n\n## Location\n\n- **Remote – Worldwide**\n- No specific country or location restriction\n- Candidates from any region are welcome\n\n## Work Type\n\n- Full-time\n- Fully remote\n- Globally distributed team\n- Requires collaboration across multiple time zones\n\n## Responsibilities\n\n### 1. Protocol & Network Product Ownership\n\n- Own the product roadmap for the 1Money Network's core protocol, including but not limited to:\n  - BCB Consensus\n  - Transaction Processing\n  - Node Architecture\n  - Horizontal Sharding\n  - Network Fee Design\n- Work with engineering to translate protocol capabilities into clearly scoped, buildable requirements, ensuring alignment between business needs and engineering implementation.\n- Monitor mainnet performance metrics and production transaction data to identify gaps and drive improvements.\n- Proactively track engineering delivery, run regular status check-ins, surface blockers early, and keep cross-functional teams aligned and on schedule.\n\n### 2. Stablecoin Issuance & Token Management\n\n- Own the product experience for stablecoin issuance on the 1Money Network.\n- Work with issuers to onboard new stablecoins and tokenized deposits onto the network.\n- Understand the full lifecycle of stablecoin issuance across multiple networks, including Ethereum, Solana, TRON, and the 1Money Network's native layer — from smart contract deployment and minting to reserve management and redemption flows.\n- Work with Compliance and Legal to ensure supported stablecoins meet regulatory and AML standards.\n\n### 3. Developer Experience & Ecosystem\n\n- Define and improve the 1Money developer experience, including:\n  - APIs\n  - SDKs\n  - Documentation\n  - Explorer tools\n  - Testnets\n  - Integration guides\n- Work with BD and Partnerships teams to attract stablecoin issuers, wallets, exchanges, and payment applications to build on 1Money Network.\n- Collect developer and partner feedback and translate it into protocol and tooling improvements.\n\n### 4. Cross-functional & Global Collaboration\n\n- Be available and willing to attend meetings outside of standard business hours, including early mornings or late evenings, to collaborate with team members and stakeholders across different global time zones.\n- Write clear product specifications and requirements documents that serve as the single source of truth for both technical and business stakeholders.\n- Communicate roadmap updates, delivery status, and strategic decisions to leadership, investors, validators, and the broader community.\n\n## Requirements\n\n### Must Have\n\n- 3+ years of product management experience in blockchain, fintech, or payments infrastructure.\n- Proactive problem solver who actively identifies issues, gaps, and opportunities without waiting to be assigned work.\n- Strong written and verbal communication skills, with the ability to articulate requirements clearly and bridge business intent with technical implementation.\n- Ability to explain complex protocol and payment concepts to both technical and non-technical audiences.\n- Proven project management skills, including tracking engineering delivery, running structured status check-ins, identifying and resolving blockers, and keeping distributed teams accountable.\n- Comfortable working with a globally distributed team across multiple time zones, with strong async communication habits and cultural awareness.\n\n### Strongly Preferred\n\n- Hands-on product experience with a **Layer 1 blockchain or blockchain protocol infrastructure**.\n- Experience working closely with blockchain protocol or core engineering teams.\n- Experience in stablecoin infrastructure, crypto-native payments, or blockchain network products.\n\n### Nice to Have\n\n- Working knowledge of stablecoin issuance, including how stablecoins are issued, minted, redeemed, and managed on-chain across major networks such as Ethereum (ERC-20), Solana (SPL), and TRON (TRC-20).\n- Understanding of what it takes to list or integrate a new stablecoin on a payment network.\n- Experience with Deterministic BFT or other consensus mechanism design.\n- Familiarity with USDT, USDC, PYUSD, or other major stablecoin architectures and reserve models.\n- Understanding of tokenized deposits and their regulatory treatment versus traditional stablecoins.\n- Prior experience at a Layer 1 blockchain, stablecoin issuer, or crypto-native payments company.\n- Experience with network economics, including fee design, validator incentives, and token distribution.\n- Familiarity with cross-chain interoperability and bridge architecture.\n\n## Work Environment\n\n- Remote / Worldwide\n- Globally distributed team\n- Cross-time-zone collaboration\n- Product scope covering **Layer 1 Protocol, Stablecoin, Developer Ecosystem, and Blockchain Payments**\n- Close collaboration with Engineering, BD, Partnerships, Compliance, and Legal teams\n\n## How to Apply\n\nThis position is being handled by an **External Recruitment Partner** on behalf of 1Money.\n\n**Recruitment Partner:AlexZhu  \n**LinkedIn:** https://www.linkedin.com/in/alex-z-1a83ab42a/  \n**Email:** zhuapacrg@gmail.com\n\nPlease include your **CV / Resume** when applying.\n\n**Subject:** Product Manager – Layer 1 / Stablecoin Payments",
     "comments": [],
     "labels": [],
-    "state": "open",
+    "state": "closed",
     "created_at": "2026-09-09T08:07:27Z",
-    "updated_at": "2026-09-09T08:07:27Z",
-    "closed_at": null,
+    "updated_at": "2026-09-09T10:32:26Z",
+    "closed_at": "2026-09-09T10:32:26Z",
     "author": "zhuapacrg-ctrl"
   },
   "normalized": {
@@ -115,12 +115,11 @@
     "comment_supplemented_fields": [],
     "decision_value_score": 75,
     "credibility_score": 5,
-    "state": "open",
+    "state": "closed",
     "labels": [],
     "created_at": "2026-09-09T08:07:27Z",
-    "updated_at": "2026-09-09T08:07:27Z",
-    "closed_at": null,
-    "rss_updated_at": "2026-09-09T08:07:27.000Z",
+    "updated_at": "2026-09-09T10:32:26Z",
+    "closed_at": "2026-09-09T10:32:26Z",
     "summary": "## Company / Team",
     "author": "zhuapacrg-ctrl"
   },
@@ -129,11 +128,11 @@
     "number": 1287,
     "url": "https://github.com/rebase-network/who-is-hiring/issues/1287",
     "title": "[Worldwide Remote] Hiring Product Manager – Layer 1 / Stablecoin Payments | 1M+ RMB Annual Salary",
-    "state": "open",
+    "state": "closed",
     "labels": [],
     "created_at": "2026-09-09T08:07:27Z",
-    "updated_at": "2026-09-09T08:07:27Z",
-    "closed_at": null,
+    "updated_at": "2026-09-09T10:32:26Z",
+    "closed_at": "2026-09-09T10:32:26Z",
     "author": "zhuapacrg-ctrl",
     "company": null,
     "location": "d payments and digital asset applications. The product organization works across **core protocol and network infrastructure",
@@ -439,5 +438,21 @@
     "decision_value_score": 75,
     "credibility_score": 5
   },
-  "extraction_trace": null
+  "extraction_trace": {
+    "number": 1287,
+    "confidence_score": 74,
+    "low_confidence": false,
+    "confidence_reasons": [
+      "missing-company",
+      "weak-summary-signal"
+    ],
+    "deterministic_conflicts": [],
+    "route": "llm-fallback",
+    "llm_result": "fallback",
+    "llm_attempted": true,
+    "llm_applied": false,
+    "llm_error": "llm-request-failed:Unexpected token '<', \"<!doctype \"... is not valid JSON-batch-1/1",
+    "fallback_reason": "llm-request-failed:Unexpected token '<', \"<!doctype \"... is not valid JSON-batch-1/1",
+    "merged_fields": []
+  }
 }

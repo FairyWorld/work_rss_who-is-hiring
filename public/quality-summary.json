@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-09T10:30:28.311Z",
+  "generated_at": "2026-09-09T10:32:47.287Z",
   "totals": {
     "all_jobs": 1172,
-    "open_jobs": 892,
-    "average_score_open": 85.85,
-    "average_decision_value_open": 65.03,
+    "open_jobs": 891,
+    "average_score_open": 85.86,
+    "average_decision_value_open": 65.02,
     "average_credibility_open": 8.36,
     "low_score_open": 39,
     "comment_supplemented_open": 20
   },
   "grade_distribution_open": {
     "A": 430,
-    "B": 264,
+    "B": 263,
     "C": 108,
     "D": 51,
     "F": 39
@@ -19,7 +19,7 @@
   "missing_field_counts_open": {
     "employment_type": 201,
     "salary": 169,
-    "company": 96,
+    "company": 95,
     "responsibilities": 93,
     "work_mode": 75,
     "location": 56,
@@ -28,7 +28,7 @@
     "title": 1
   },
   "weak_field_counts_open": {
-    "salary": 623,
+    "salary": 622,
     "contact": 293,
     "responsibilities": 78,
     "requirements": 37,
@@ -36,7 +36,7 @@
     "work_mode": 1
   },
   "risk_flag_counts_open": {
-    "company-missing": 96,
+    "company-missing": 95,
     "offplatform-contact-only-no-company": 37,
     "high-salary-low-detail": 16,
     "contact-missing": 11
@@ -448,17 +448,16 @@
   "extraction_observability": {
     "low_confidence_threshold": 70,
     "total_issues": 1,
-    "low_confidence_issues": 1,
+    "low_confidence_issues": 0,
     "llm_enriched_issues": 0,
     "llm_fallback_issues": 1,
     "per_issue": [
       {
-        "number": 1285,
-        "confidence_score": 68,
-        "low_confidence": true,
+        "number": 1287,
+        "confidence_score": 74,
+        "low_confidence": false,
         "confidence_reasons": [
-          "missing-location",
-          "missing-responsibilities",
+          "missing-company",
           "weak-summary-signal"
         ],
         "deterministic_conflicts": [],
@@ -474,7 +473,7 @@
   },
   "low_score_label_loop": {
     "mode": "label-and-comment",
-    "issue_number": 1285,
+    "issue_number": 1287,
     "decision_reason": "issue-closed",
     "reminder_band": null,
     "should_ensure_label": false,
