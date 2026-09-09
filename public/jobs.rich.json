@@ -1,8 +1,323 @@
 {
-  "generated_at": "34327324369",
+  "generated_at": "34327406927",
   "repo": "rebase-network/who-is-hiring",
-  "count": 893,
+  "count": 894,
   "jobs": [
+    {
+      "id": 5396784443,
+      "number": 1287,
+      "url": "https://github.com/rebase-network/who-is-hiring/issues/1287",
+      "title": "[Worldwide Remote] Hiring Product Manager – Layer 1 / Stablecoin Payments | 1M+ RMB Annual Salary",
+      "state": "open",
+      "labels": [],
+      "created_at": "2026-09-09T08:07:27Z",
+      "updated_at": "2026-09-09T08:07:27Z",
+      "closed_at": null,
+      "author": "zhuapacrg-ctrl",
+      "company": null,
+      "location": "d payments and digital asset applications. The product organization works across **core protocol and network infrastructure",
+      "salary": "- Annual salary: **RMB 1,000,000+**",
+      "salary_min": 1000000,
+      "salary_max": null,
+      "salary_currency": "CNY",
+      "salary_period": null,
+      "remote": true,
+      "work_mode": "Remote",
+      "timezone": "s",
+      "employment_type": "contract",
+      "summary": "## Company / Team",
+      "responsibilities": [
+        "Own the product roadmap for the 1Money Network's core protocol, including but not limited to:",
+        "BCB Consensus",
+        "Transaction Processing",
+        "Node Architecture",
+        "Horizontal Sharding",
+        "Network Fee Design",
+        "Work with engineering to translate protocol capabilities into clearly scoped, buildable requirements, ensuring alignment between business needs and engineering implementation.",
+        "Monitor mainnet performance metrics and production transaction data to identify gaps and drive improvements.",
+        "Proactively track engineering delivery, run regular status check-ins, surface blockers early, and keep cross-functional teams aligned and on schedule.",
+        "Own the product experience for stablecoin issuance on the 1Money Network.",
+        "Work with issuers to onboard new stablecoins and tokenized deposits onto the network.",
+        "Understand the full lifecycle of stablecoin issuance across multiple networks, including Ethereum, Solana, TRON, and the 1Money Network's native layer — from smart contract deployment and minting to reserve management and redemption flows.",
+        "Work with Compliance and Legal to ensure supported stablecoins meet regulatory and AML standards.",
+        "Define and improve the 1Money developer experience, including:",
+        "APIs",
+        "SDKs",
+        "Documentation",
+        "Explorer tools",
+        "Testnets",
+        "Integration guides",
+        "Work with BD and Partnerships teams to attract stablecoin issuers, wallets, exchanges, and payment applications to build on 1Money Network.",
+        "Collect developer and partner feedback and translate it into protocol and tooling improvements.",
+        "Be available and willing to attend meetings outside of standard business hours, including early mornings or late evenings, to collaborate with team members and stakeholders across different global time zones.",
+        "Write clear product specifications and requirements documents that serve as the single source of truth for both technical and business stakeholders.",
+        "Communicate roadmap updates, delivery status, and strategic decisions to leadership, investors, validators, and the broader community.",
+        "### 1. Protocol & Network Product Ownership",
+        "### 2. Stablecoin Issuance & Token Management",
+        "### 3. Developer Experience & Ecosystem",
+        "### 4. Cross-functional & Global Collaboration"
+      ],
+      "requirements": [
+        "3+ years of product management experience in blockchain, fintech, or payments infrastructure.\nProactive problem solver who actively identifies issues, gaps, and opportunities without waiting to be assigned work.\nStrong written and verbal communication skills, with the ability to articulate requirements clearly and bridge business intent with technical implementation.\nAbility to explain complex protocol and payment concepts to both technical and non-technical audiences.\nProven project management skills, including tracking engineering delivery, running structured status check-ins, identifying and resolving blockers, and keeping distributed teams accountable.\nComfortable working with a globally distributed team across multiple time zones, with strong async communication habits and cultural awareness.\nHands-on product experience with a **Layer 1 blockchain or blockchain protocol infrastructure**.\nExperience working closely with blockchain protocol or core engineering teams.\nExperience in stablecoin infrastructure, crypto-native payments, or blockchain network products.\nWorking knowledge of stablecoin issuance, including how stablecoins are issued, minted, redeemed, and managed on-chain across major networks such as Ethereum (ERC-20), Solana (SPL), and TRON (TRC-20).\nUnderstanding of what it takes to list or integrate a new stablecoin on a payment network.\nExperience with Deterministic BFT or other consensus mechanism design.\nFamiliarity with USDT, USDC, PYUSD, or other major stablecoin architectures and reserve models.\nUnderstanding of tokenized deposits and their regulatory treatment versus traditional stablecoins.\nPrior experience at a Layer 1 blockchain, stablecoin issuer, or crypto-native payments company.\nExperience with network economics, including fee design, validator incentives, and token distribution.\nFamiliarity with cross-chain interoperability and bridge architecture.\nRemote / Worldwide\nGlobally distributed team\nCross-time-zone collaboration\nProduct scope covering **Layer 1 Protocol, Stablecoin, Developer Ecosystem, and Blockchain Payments\nClose collaboration with Engineering, BD, Partnerships, Compliance, and Legal teams"
+      ],
+      "compensation_notes": [
+        "- Annual salary: **RMB 1,000,000+**",
+        "Annual salary: **RMB 1,000,000+**",
+        "Compensation is negotiable based on experience and product/technical background",
+        "Full-time position"
+      ],
+      "contact_details": [
+        "email:zhuapacrg@gmail.com",
+        "https://www.linkedin.com/in/alex-z-1a83ab42a/",
+        "linkedin:.com"
+      ],
+      "sections": [
+        {
+          "title": "Company / Team",
+          "paragraphs": [
+            "**1Money** is building next-generation blockchain infrastructure for digital assets and global payments.",
+            "The team is developing a high-performance **Layer 1 network** designed to support stablecoin-based payments and digital asset applications. The product organization works across **core protocol and network infrastructure, stablecoin issuance and token management, developer experience, and the broader payment ecosystem**.",
+            "We are looking for a **Product Manager – Layer 1 / Stablecoin Payments** to work closely with engineering, stablecoin issuers, developers, and ecosystem partners to build and scale the network."
+          ],
+          "bullets": []
+        },
+        {
+          "title": "Compensation",
+          "paragraphs": [],
+          "bullets": [
+            "Annual salary: **RMB 1,000,000+**",
+            "Compensation is negotiable based on experience and product/technical background",
+            "Full-time position"
+          ]
+        },
+        {
+          "title": "Location",
+          "paragraphs": [],
+          "bullets": [
+            "**Remote – Worldwide**",
+            "No specific country or location restriction",
+            "Candidates from any region are welcome"
+          ]
+        },
+        {
+          "title": "Work Type",
+          "paragraphs": [],
+          "bullets": [
+            "Full-time",
+            "Fully remote",
+            "Globally distributed team",
+            "Requires collaboration across multiple time zones"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "paragraphs": [
+            "### 1. Protocol & Network Product Ownership",
+            "### 2. Stablecoin Issuance & Token Management",
+            "### 3. Developer Experience & Ecosystem",
+            "### 4. Cross-functional & Global Collaboration"
+          ],
+          "bullets": [
+            "Own the product roadmap for the 1Money Network's core protocol, including but not limited to:",
+            "BCB Consensus",
+            "Transaction Processing",
+            "Node Architecture",
+            "Horizontal Sharding",
+            "Network Fee Design",
+            "Work with engineering to translate protocol capabilities into clearly scoped, buildable requirements, ensuring alignment between business needs and engineering implementation.",
+            "Monitor mainnet performance metrics and production transaction data to identify gaps and drive improvements.",
+            "Proactively track engineering delivery, run regular status check-ins, surface blockers early, and keep cross-functional teams aligned and on schedule.",
+            "Own the product experience for stablecoin issuance on the 1Money Network.",
+            "Work with issuers to onboard new stablecoins and tokenized deposits onto the network.",
+            "Understand the full lifecycle of stablecoin issuance across multiple networks, including Ethereum, Solana, TRON, and the 1Money Network's native layer — from smart contract deployment and minting to reserve management and redemption flows.",
+            "Work with Compliance and Legal to ensure supported stablecoins meet regulatory and AML standards.",
+            "Define and improve the 1Money developer experience, including:",
+            "APIs",
+            "SDKs",
+            "Documentation",
+            "Explorer tools",
+            "Testnets",
+            "Integration guides",
+            "Work with BD and Partnerships teams to attract stablecoin issuers, wallets, exchanges, and payment applications to build on 1Money Network.",
+            "Collect developer and partner feedback and translate it into protocol and tooling improvements.",
+            "Be available and willing to attend meetings outside of standard business hours, including early mornings or late evenings, to collaborate with team members and stakeholders across different global time zones.",
+            "Write clear product specifications and requirements documents that serve as the single source of truth for both technical and business stakeholders.",
+            "Communicate roadmap updates, delivery status, and strategic decisions to leadership, investors, validators, and the broader community."
+          ]
+        },
+        {
+          "title": "Must Have",
+          "paragraphs": [],
+          "bullets": [
+            "3+ years of product management experience in blockchain, fintech, or payments infrastructure.",
+            "Proactive problem solver who actively identifies issues, gaps, and opportunities without waiting to be assigned work.",
+            "Strong written and verbal communication skills, with the ability to articulate requirements clearly and bridge business intent with technical implementation.",
+            "Ability to explain complex protocol and payment concepts to both technical and non-technical audiences.",
+            "Proven project management skills, including tracking engineering delivery, running structured status check-ins, identifying and resolving blockers, and keeping distributed teams accountable.",
+            "Comfortable working with a globally distributed team across multiple time zones, with strong async communication habits and cultural awareness."
+          ]
+        },
+        {
+          "title": "Strongly Preferred",
+          "paragraphs": [],
+          "bullets": [
+            "Hands-on product experience with a **Layer 1 blockchain or blockchain protocol infrastructure**.",
+            "Experience working closely with blockchain protocol or core engineering teams.",
+            "Experience in stablecoin infrastructure, crypto-native payments, or blockchain network products."
+          ]
+        },
+        {
+          "title": "Nice to Have",
+          "paragraphs": [],
+          "bullets": [
+            "Working knowledge of stablecoin issuance, including how stablecoins are issued, minted, redeemed, and managed on-chain across major networks such as Ethereum (ERC-20), Solana (SPL), and TRON (TRC-20).",
+            "Understanding of what it takes to list or integrate a new stablecoin on a payment network.",
+            "Experience with Deterministic BFT or other consensus mechanism design.",
+            "Familiarity with USDT, USDC, PYUSD, or other major stablecoin architectures and reserve models.",
+            "Understanding of tokenized deposits and their regulatory treatment versus traditional stablecoins.",
+            "Prior experience at a Layer 1 blockchain, stablecoin issuer, or crypto-native payments company.",
+            "Experience with network economics, including fee design, validator incentives, and token distribution.",
+            "Familiarity with cross-chain interoperability and bridge architecture."
+          ]
+        },
+        {
+          "title": "Work Environment",
+          "paragraphs": [],
+          "bullets": [
+            "Remote / Worldwide",
+            "Globally distributed team",
+            "Cross-time-zone collaboration",
+            "Product scope covering **Layer 1 Protocol, Stablecoin, Developer Ecosystem, and Blockchain Payments**",
+            "Close collaboration with Engineering, BD, Partnerships, Compliance, and Legal teams"
+          ]
+        },
+        {
+          "title": "Contact",
+          "paragraphs": [
+            "This position is being handled by an **External Recruitment Partner** on behalf of 1Money.",
+            "**Recruitment Partner:AlexZhu",
+            "**LinkedIn:** https://www.linkedin.com/in/alex-z-1a83ab42a/",
+            "**Email:** zhuapacrg@gmail.com",
+            "Please include your **CV / Resume** when applying.",
+            "**Subject:** Product Manager – Layer 1 / Stablecoin Payments"
+          ],
+          "bullets": []
+        }
+      ],
+      "narrative": [
+        "## Company / Team",
+        "**1Money** is building next-generation blockchain infrastructure for digital assets and global payments.",
+        "The team is developing a high-performance **Layer 1 network** designed to support stablecoin-based payments and digital asset applications. The product organization works across **core protocol and network infrastructure, stablecoin issuance and token management, developer experience, and the broader payment ecosystem**.",
+        "We are looking for a **Product Manager – Layer 1 / Stablecoin Payments** to work closely with engineering, stablecoin issuers, developers, and ecosystem partners to build and scale the network.",
+        "## Compensation",
+        "- Annual salary: **RMB 1,000,000+** - Compensation is negotiable based on experience and product/technical background - Full-time position",
+        "## Location",
+        "- **Remote – Worldwide** - No specific country or location restriction - Candidates from any region are welcome",
+        "## Work Type",
+        "- Full-time - Fully remote - Globally distributed team - Requires collaboration across multiple time zones",
+        "## Responsibilities",
+        "### 1. Protocol & Network Product Ownership",
+        "- Own the product roadmap for the 1Money Network's core protocol, including but not limited to: - BCB Consensus - Transaction Processing - Node Architecture - Horizontal Sharding - Network Fee Design - Work with engineering to translate protocol capabilities into clearly scoped, buildable requirements, ensuring alignment between business needs and engineering implementation. - Monitor mainnet performance metrics and production transaction data to identify gaps and drive improvements. - Proactively track engineering delivery, run regular status check-ins, surface blockers early, and keep cross-functional teams aligned and on schedule.",
+        "### 2. Stablecoin Issuance & Token Management",
+        "- Own the product experience for stablecoin issuance on the 1Money Network. - Work with issuers to onboard new stablecoins and tokenized deposits onto the network. - Understand the full lifecycle of stablecoin issuance across multiple networks, including Ethereum, Solana, TRON, and the 1Money Network's native layer — from smart contract deployment and minting to reserve management and redemption flows. - Work with Compliance and Legal to ensure supported stablecoins meet regulatory and AML standards.",
+        "### 3. Developer Experience & Ecosystem",
+        "- Define and improve the 1Money developer experience, including: - APIs - SDKs - Documentation - Explorer tools - Testnets - Integration guides - Work with BD and Partnerships teams to attract stablecoin issuers, wallets, exchanges, and payment applications to build on 1Money Network. - Collect developer and partner feedback and translate it into protocol and tooling improvements.",
+        "### 4. Cross-functional & Global Collaboration",
+        "- Be available and willing to attend meetings outside of standard business hours, including early mornings or late evenings, to collaborate with team members and stakeholders across different global time zones. - Write clear product specifications and requirements documents that serve as the single source of truth for both technical and business stakeholders. - Communicate roadmap updates, delivery status, and strategic decisions to leadership, investors, validators, and the broader community.",
+        "## Requirements",
+        "### Must Have",
+        "- 3+ years of product management experience in blockchain, fintech, or payments infrastructure. - Proactive problem solver who actively identifies issues, gaps, and opportunities without waiting to be assigned work. - Strong written and verbal communication skills, with the ability to articulate requirements clearly and bridge business intent with technical implementation. - Ability to explain complex protocol and payment concepts to both technical and non-technical audiences. - Proven project management skills, including tracking engineering delivery, running structured status check-ins, identifying and resolving blockers, and keeping distributed teams accountable. - Comfortable working with a globally distributed team across multiple time zones, with strong async communication habits and cultural awareness.",
+        "### Strongly Preferred",
+        "- Hands-on product experience with a **Layer 1 blockchain or blockchain protocol infrastructure**. - Experience working closely with blockchain protocol or core engineering teams. - Experience in stablecoin infrastructure, crypto-native payments, or blockchain network products.",
+        "### Nice to Have",
+        "- Working knowledge of stablecoin issuance, including how stablecoins are issued, minted, redeemed, and managed on-chain across major networks such as Ethereum (ERC-20), Solana (SPL), and TRON (TRC-20). - Understanding of what it takes to list or integrate a new stablecoin on a payment network. - Experience with Deterministic BFT or other consensus mechanism design. - Familiarity with USDT, USDC, PYUSD, or other major stablecoin architectures and reserve models. - Understanding of tokenized deposits and their regulatory treatment versus traditional stablecoins. - Prior experience at a Layer 1 blockchain, stablecoin issuer, or crypto-native payments company. - Experience with network economics, including fee design, validator incentives, and token distribution. - Familiarity with cross-chain interoperability and bridge architecture.",
+        "## Work Environment",
+        "- Remote / Worldwide - Globally distributed team - Cross-time-zone collaboration - Product scope covering **Layer 1 Protocol, Stablecoin, Developer Ecosystem, and Blockchain Payments** - Close collaboration with Engineering, BD, Partnerships, Compliance, and Legal teams",
+        "## How to Apply",
+        "This position is being handled by an **External Recruitment Partner** on behalf of 1Money.",
+        "**Recruitment Partner:AlexZhu **LinkedIn:** https://www.linkedin.com/in/alex-z-1a83ab42a/ **Email:** zhuapacrg@gmail.com",
+        "Please include your **CV / Resume** when applying.",
+        "**Subject:** Product Manager – Layer 1 / Stablecoin Payments"
+      ],
+      "raw_body": "## Company / Team\n\n**1Money** is building next-generation blockchain infrastructure for digital assets and global payments.\n\nThe team is developing a high-performance **Layer 1 network** designed to support stablecoin-based payments and digital asset applications. The product organization works across **core protocol and network infrastructure, stablecoin issuance and token management, developer experience, and the broader payment ecosystem**.\n\nWe are looking for a **Product Manager – Layer 1 / Stablecoin Payments** to work closely with engineering, stablecoin issuers, developers, and ecosystem partners to build and scale the network.\n\n## Compensation\n\n- Annual salary: **RMB 1,000,000+**\n- Compensation is negotiable based on experience and product/technical background\n- Full-time position\n\n## Location\n\n- **Remote – Worldwide**\n- No specific country or location restriction\n- Candidates from any region are welcome\n\n## Work Type\n\n- Full-time\n- Fully remote\n- Globally distributed team\n- Requires collaboration across multiple time zones\n\n## Responsibilities\n\n### 1. Protocol & Network Product Ownership\n\n- Own the product roadmap for the 1Money Network's core protocol, including but not limited to:\n  - BCB Consensus\n  - Transaction Processing\n  - Node Architecture\n  - Horizontal Sharding\n  - Network Fee Design\n- Work with engineering to translate protocol capabilities into clearly scoped, buildable requirements, ensuring alignment between business needs and engineering implementation.\n- Monitor mainnet performance metrics and production transaction data to identify gaps and drive improvements.\n- Proactively track engineering delivery, run regular status check-ins, surface blockers early, and keep cross-functional teams aligned and on schedule.\n\n### 2. Stablecoin Issuance & Token Management\n\n- Own the product experience for stablecoin issuance on the 1Money Network.\n- Work with issuers to onboard new stablecoins and tokenized deposits onto the network.\n- Understand the full lifecycle of stablecoin issuance across multiple networks, including Ethereum, Solana, TRON, and the 1Money Network's native layer — from smart contract deployment and minting to reserve management and redemption flows.\n- Work with Compliance and Legal to ensure supported stablecoins meet regulatory and AML standards.\n\n### 3. Developer Experience & Ecosystem\n\n- Define and improve the 1Money developer experience, including:\n  - APIs\n  - SDKs\n  - Documentation\n  - Explorer tools\n  - Testnets\n  - Integration guides\n- Work with BD and Partnerships teams to attract stablecoin issuers, wallets, exchanges, and payment applications to build on 1Money Network.\n- Collect developer and partner feedback and translate it into protocol and tooling improvements.\n\n### 4. Cross-functional & Global Collaboration\n\n- Be available and willing to attend meetings outside of standard business hours, including early mornings or late evenings, to collaborate with team members and stakeholders across different global time zones.\n- Write clear product specifications and requirements documents that serve as the single source of truth for both technical and business stakeholders.\n- Communicate roadmap updates, delivery status, and strategic decisions to leadership, investors, validators, and the broader community.\n\n## Requirements\n\n### Must Have\n\n- 3+ years of product management experience in blockchain, fintech, or payments infrastructure.\n- Proactive problem solver who actively identifies issues, gaps, and opportunities without waiting to be assigned work.\n- Strong written and verbal communication skills, with the ability to articulate requirements clearly and bridge business intent with technical implementation.\n- Ability to explain complex protocol and payment concepts to both technical and non-technical audiences.\n- Proven project management skills, including tracking engineering delivery, running structured status check-ins, identifying and resolving blockers, and keeping distributed teams accountable.\n- Comfortable working with a globally distributed team across multiple time zones, with strong async communication habits and cultural awareness.\n\n### Strongly Preferred\n\n- Hands-on product experience with a **Layer 1 blockchain or blockchain protocol infrastructure**.\n- Experience working closely with blockchain protocol or core engineering teams.\n- Experience in stablecoin infrastructure, crypto-native payments, or blockchain network products.\n\n### Nice to Have\n\n- Working knowledge of stablecoin issuance, including how stablecoins are issued, minted, redeemed, and managed on-chain across major networks such as Ethereum (ERC-20), Solana (SPL), and TRON (TRC-20).\n- Understanding of what it takes to list or integrate a new stablecoin on a payment network.\n- Experience with Deterministic BFT or other consensus mechanism design.\n- Familiarity with USDT, USDC, PYUSD, or other major stablecoin architectures and reserve models.\n- Understanding of tokenized deposits and their regulatory treatment versus traditional stablecoins.\n- Prior experience at a Layer 1 blockchain, stablecoin issuer, or crypto-native payments company.\n- Experience with network economics, including fee design, validator incentives, and token distribution.\n- Familiarity with cross-chain interoperability and bridge architecture.\n\n## Work Environment\n\n- Remote / Worldwide\n- Globally distributed team\n- Cross-time-zone collaboration\n- Product scope covering **Layer 1 Protocol, Stablecoin, Developer Ecosystem, and Blockchain Payments**\n- Close collaboration with Engineering, BD, Partnerships, Compliance, and Legal teams\n\n## How to Apply\n\nThis position is being handled by an **External Recruitment Partner** on behalf of 1Money.\n\n**Recruitment Partner:AlexZhu  \n**LinkedIn:** https://www.linkedin.com/in/alex-z-1a83ab42a/  \n**Email:** zhuapacrg@gmail.com\n\nPlease include your **CV / Resume** when applying.\n\n**Subject:** Product Manager – Layer 1 / Stablecoin Payments",
+      "completeness_score": 80,
+      "completeness_grade": "B",
+      "missing_fields": [
+        "company"
+      ],
+      "weak_fields": [
+        "salary"
+      ],
+      "risk_flags": [
+        "company-missing"
+      ],
+      "score_breakdown": {
+        "title": {
+          "earned": 10,
+          "max": 10,
+          "source": "title"
+        },
+        "company": {
+          "earned": 0,
+          "max": 14,
+          "source": "none"
+        },
+        "location": {
+          "earned": 9,
+          "max": 9,
+          "source": "derived"
+        },
+        "salary": {
+          "earned": 12,
+          "max": 14,
+          "source": "derived"
+        },
+        "responsibilities": {
+          "earned": 11,
+          "max": 11,
+          "source": "body"
+        },
+        "requirements": {
+          "earned": 9,
+          "max": 9,
+          "source": "body"
+        },
+        "work_mode": {
+          "earned": 5,
+          "max": 5,
+          "source": "derived"
+        },
+        "employment_type": {
+          "earned": 4,
+          "max": 4,
+          "source": "derived"
+        },
+        "contact_channels": {
+          "earned": 15,
+          "max": 15,
+          "source": "body"
+        },
+        "credibility": {
+          "earned": 5,
+          "max": 9,
+          "source": null
+        }
+      },
+      "field_sources": {
+        "title": "title",
+        "company": "none",
+        "location": "derived",
+        "salary": "derived",
+        "work_mode": "derived",
+        "employment_type": "derived",
+        "responsibilities": "body",
+        "requirements": "body",
+        "contact_channels": "body"
+      },
+      "comment_supplemented_fields": [],
+      "decision_value_score": 75,
+      "credibility_score": 5
+    },
     {
       "id": 5380578600,
       "number": 1285,
