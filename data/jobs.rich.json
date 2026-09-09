@@ -1,5 +1,5 @@
 {
-  "generated_at": "34327406927",
+  "generated_at": "34327611533",
   "repo": "rebase-network/who-is-hiring",
   "count": 1172,
   "jobs": [
@@ -27228,11 +27228,11 @@
       "number": 1148,
       "url": "https://github.com/rebase-network/who-is-hiring/issues/1148",
       "title": "[成都] 诚聘高级后端工程师(P6)/后端技术专家(P7) - Golang 薪水 3000-8000 USD",
-      "state": "open",
+      "state": "closed",
       "labels": [],
       "created_at": "2026-05-12T04:12:18Z",
-      "updated_at": "2026-05-12T04:18:26Z",
-      "closed_at": null,
+      "updated_at": "2026-09-09T08:09:42Z",
+      "closed_at": "2026-09-09T08:09:42Z",
       "author": "hstarorg",
       "company": null,
       "location": "成都",

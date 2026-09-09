@@ -1,5 +1,5 @@
 {
-  "generated_at": "34327406927",
+  "generated_at": "34327611533",
   "repo": "rebase-network/who-is-hiring",
   "count": 1172,
   "jobs": [
@@ -14429,12 +14429,12 @@
       "comment_supplemented_fields": [],
       "decision_value_score": 71,
       "credibility_score": 2,
-      "state": "open",
+      "state": "closed",
       "labels": [],
       "created_at": "2026-05-12T04:12:18Z",
-      "updated_at": "2026-05-12T04:18:26Z",
-      "closed_at": null,
-      "rss_updated_at": "2026-05-12T04:18:26.000Z",
+      "updated_at": "2026-09-09T08:09:42Z",
+      "closed_at": "2026-09-09T08:09:42Z",
+      "rss_updated_at": "2026-09-09T08:09:42.000Z",
       "summary": "## 公司/团队介绍\nWeb3 技术咨询与实施公司，Digital Money 和 Digital ID 业务",
       "author": "hstarorg"
     },
