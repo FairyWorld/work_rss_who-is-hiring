@@ -1,5 +1,5 @@
 {
-  "generated_at": "34325727937",
+  "generated_at": "34327324369",
   "repo": "rebase-network/who-is-hiring",
   "count": 1171,
   "jobs": [
@@ -107,12 +107,12 @@
       "comment_supplemented_fields": [],
       "decision_value_score": 75,
       "credibility_score": 5,
-      "state": "open",
+      "state": "closed",
       "labels": [],
       "created_at": "2026-09-09T07:32:51Z",
-      "updated_at": "2026-09-09T07:48:13Z",
-      "closed_at": null,
-      "rss_updated_at": "2026-09-09T07:48:13.000Z",
+      "updated_at": "2026-09-09T08:06:32Z",
+      "closed_at": "2026-09-09T08:06:32Z",
+      "rss_updated_at": "2026-09-09T08:06:32.000Z",
       "summary": "## 公司/团队介绍",
       "author": "zhuapacrg-ctrl"
     },
